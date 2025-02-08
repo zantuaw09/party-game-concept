@@ -1,35 +1,8 @@
-<p align="center">
-    <img 
-        src="./src/images/logo.png" 
-        width="200"
-        alt="screenshots"
-    />
-</p>
+<h1 align="center">Trench Coat Movie Star: Proof of Concept Party Game</h1>
 
-<h1 align="center">OTTOMH: A Party-Thinking Game for The Web</h1>
-
-OTTOMH (On The Top Of My Head) is a web-based party trivia game that challenges players to come up with as many words that start with a certain letter and belong to a certain category in a set amount of time while competing against other players.
-
-Unlike physical board games, OTTOMH is easier to setup and can be played by geographically distributed players. It also provides a user-friendly, web-based experience similar to the popular board game Scattegories, allowing players to exercise their brains while having a good time.
-
-Play the game here: https://ottomh.herokuapp.com/
-
-## Gameplay
-
-<p float="left">
-    <img src="https://user-images.githubusercontent.com/44854928/204468513-47a0c960-7d6f-4f36-94d0-06f382afe148.png" width="198" />
-    <img src="https://user-images.githubusercontent.com/44854928/204468521-27de6994-be36-430c-a709-121fc0057f36.png" width="198" />
-    <img src="https://user-images.githubusercontent.com/44854928/204468528-4920527e-3933-49a9-ad81-6b9efdf04cea.png" width="192" />
-    <img src="https://user-images.githubusercontent.com/44854928/204468532-81bc5417-d586-42f4-9289-1d98a9f0350b.png" width="198" />
-    <img src="https://user-images.githubusercontent.com/44854928/204468537-88d98909-36f0-4254-b6b4-3e2b282b6233.png" width="198"/>
-</p>
-
-* Invite people! Create a new lobby, copy the lobby code, and send it to your teammates.
-* You have 60 seconds to submit as many words as you can think of at top of your head that begins with the given letter and matches the given category!
-* Compete against time and other players! Words can only be submitted ONCE, and the first person takes the credit for it.
-* Vote off words that don't match and earn points for the words that make it through the round!
-* View players' scores and rankings on the scoreboard at the end of each round!
-* Replay the game with the same people!
+THIS REPOSITORY IS A PROOF OF CONCEPT FORKED FROM ANOTHER PROJECT.
+No new major functionalities have been added, as this repository is only to showcase the possibilities for a new project. 
+To access the original forked project, "OTTOMH", navigate to: https://github.com/cis3296f22/ottomh
 
 ## Local installation
 
