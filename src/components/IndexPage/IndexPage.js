@@ -17,7 +17,7 @@ export const IndexPage = () => {
         <div className="index-page">
             <div className="container-fluid h-100 d-flex flex-column justify-content-center align-items-center text-center">
                 <img src={logo} width="200" alt="brain logo" class="mb-2" />
-                <h1 className="display-1">OTTOMH</h1>
+                <h1 className="display-1">Trench Coat Movie Star</h1>
 
                 {menu === "home" &&
                     <>
